@@ -1,0 +1,7 @@
+epoch 0: train_loss=0.3394 train_acc=0.901 | val_loss=0.3582 val_acc=0.895
+epoch 1: train_loss=0.2474 train_acc=0.927 | val_loss=0.2737 val_acc=0.918
+epoch 2: train_loss=0.2044 train_acc=0.938 | val_loss=0.2316 val_acc=0.931
+epoch 3: train_loss=0.1499 train_acc=0.957 | val_loss=0.1818 val_acc=0.946
+epoch 4: train_loss=0.1289 train_acc=0.963 | val_loss=0.1650 val_acc=0.950
+
+Final test accuracy: 0.958
