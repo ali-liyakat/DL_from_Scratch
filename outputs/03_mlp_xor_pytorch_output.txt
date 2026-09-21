@@ -1,0 +1,16 @@
+epoch 0: loss=0.4819
+epoch 500: loss=0.0000
+epoch 1000: loss=0.0000
+epoch 1500: loss=0.0000
+epoch 2000: loss=0.0000
+epoch 2500: loss=0.0000
+epoch 3000: loss=0.0000
+epoch 3500: loss=0.0000
+epoch 4000: loss=0.0000
+epoch 4500: loss=0.0000
+
+Final predictions:
+input=[0.0, 0.0] -> pred=0.000 (target=0.0)
+input=[0.0, 1.0] -> pred=1.000 (target=1.0)
+input=[1.0, 0.0] -> pred=1.000 (target=1.0)
+input=[1.0, 1.0] -> pred=0.000 (target=0.0)
