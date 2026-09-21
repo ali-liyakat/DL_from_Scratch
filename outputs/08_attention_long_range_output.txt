@@ -1,0 +1,12 @@
+Training attention model on SHORT sequences (length 5)...
+Short sequences (len=5): final-char accuracy = 100.00%
+
+Training attention model on LONG sequences (length 40)...
+Long sequences (len=40): final-char accuracy = 100.00%
+
+RNN comparison (from Step 7): short=100.00%, long=65.50%
+
+Last position's attention weights over the full 39-token sequence (last example):
+(high weight near position 0 = model learned to look back at the FIRST character)
+Weight on position 0 (the first char): 1.0000
+Average weight on all other positions: 0.0000
