@@ -1,0 +1,9 @@
+epoch 0: loss=2.3174
+epoch 50: loss=0.0267
+epoch 100: loss=0.0038
+epoch 150: loss=0.0021
+epoch 200: loss=0.0014
+epoch 250: loss=0.0010
+
+Generating from seed 't':
+the cat sat on the mat
