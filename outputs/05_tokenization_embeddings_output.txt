@@ -1,0 +1,17 @@
+Vocabulary: [' ', 'a', 'c', 'e', 'h', 'm', 'n', 'o', 's', 't']
+Vocab size: 10
+
+'cat' -> token ids: [2, 1, 9]
+decoded back: 'cat'
+
+Token ids for 'cat': [2, 1, 9]
+Embedding vectors shape: torch.Size([3, 6])  (3 chars x 6 dims)
+tensor([[-0.7279, -0.5594, -0.7688,  0.7624,  1.6423, -0.1596],
+        [-0.0431, -1.6047, -0.7521,  1.6487, -0.3925, -1.4036],
+        [-0.4527, -0.7718, -0.1722,  0.5238,  0.0566,  0.4263]],
+       grad_fn=<EmbeddingBackward0>)
+
+Full embedding table shape: torch.Size([10, 6])  (vocab_size x embedding_dim)
+
+Manually indexing the table gives the identical result as calling embedding_table():
+True
