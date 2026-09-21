@@ -1,0 +1,33 @@
+Total parameters: 112,122
+step 0: loss=4.2239
+step 200: loss=2.2920
+step 400: loss=1.9830
+step 600: loss=1.6660
+step 800: loss=1.6169
+step 1000: loss=1.2504
+step 1200: loss=1.1377
+step 1400: loss=1.0595
+step 1600: loss=0.9006
+step 1800: loss=0.8290
+
+Generating 300 characters from a blank start:
+
+Inator famiters.
+
+COMINIUS:
+
+Messenderighgs with you, is folly?
+
+First Citizen:
+We we a whome agaidon?
+
+MENENIUS:
+Sir, thought they isse?
+
+MENENIUS:
+My your malinks, thought that I the sever your stinge, with his farts
+there suppeak.
+
+VIRGILIA:
+No, well, good madam; I wisher band thre: is is fauls
+M
